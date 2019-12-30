@@ -1,7 +1,7 @@
 # Site settings
 title: photography | Stefan Hermanek 
 description: snaps taken in between naps
-baseurl: "/photography=site" # the subpath of your site, e.g. /blog
+baseurl: "/photography-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Stefan Hermanek
 
@@ -20,6 +20,6 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: 
-  
+
 # Build settings
 markdown: kramdown
